@@ -42,6 +42,6 @@ Specialized in microservices architecture, performance optimization, multithread
 - Automated Deployments
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Portfolio: (add link)
+- LinkedIn: https://www.linkedin.com/in/konduru-sumanth-varma-320a5b1bb/
+- Portfolio: https://konduruportfolio.vercel.app/
 - Email: sumanthk458@gmail.com
