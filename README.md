@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Sumanth Varma
 
-<!--
-**Sumanth-cs19/Sumanth-cs19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Software Development Engineer II at Jio Platforms with 2+ years of experience building high-performance .NET applications.  
+Specialized in microservices architecture, performance optimization, multithreading, and Azure cloud deployments.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- C#
+- .NET Core / ASP.NET Core
+- Web API
+- Entity Framework
+- LINQ
+- Multithreading & Concurrency
+- JWT Authentication
+
+### Database
+- Oracle
+- SQL Server
+- PostgreSQL
+- Redis (Caching)
+- PL/SQL
+
+### Architecture & Tools
+- Microservices
+- RabbitMQ
+- CI/CD (Azure DevOps)
+- Docker (if used)
+- Design Patterns & SOLID
+
+## 📈 Key Achievements
+- Boosted data pipeline throughput from 9 → 520 records/sec
+- Built microservice handling 500K+ daily events
+- Optimized 50M+ row Oracle DB queries (40% faster)
+- Reduced map API latency by 64%
+- Secured 30+ modules with custom RBAC framework
+
+## ☁️ Cloud & DevOps
+- Azure App Services
+- CI/CD Pipelines
+- Automated Deployments
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Portfolio: (add link)
+- Email: sumanthk458@gmail.com
